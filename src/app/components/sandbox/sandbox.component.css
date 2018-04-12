@@ -1,0 +1,9 @@
+body {
+    background: red; 
+}
+.special {
+    color: green;
+}
+.saveable{
+    text-transform: uppercase;
+}
